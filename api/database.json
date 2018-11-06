@@ -1,0 +1,58 @@
+{
+  "legoCreation": [
+    {
+      "id": 1,
+      "creator": "Per Sun",
+      "color": "Black",
+      "shape": "Animal",
+      "creation": "Black Cow"
+    },
+    {
+      "creator": "sfasdf",
+      "color": "6",
+      "shape": "sfda",
+      "creation": "asfd",
+      "id": 2
+    },
+    {
+      "creator": "Sam",
+      "color": "2",
+      "shape": "Box",
+      "creation": "carton",
+      "id": 3
+    },
+    {
+      "creator": "Please",
+      "color": "Green",
+      "shape": "hope",
+      "creation": "working?",
+      "id": 4
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "Red"
+    },
+    {
+      "id": 2,
+      "name": "Green"
+    },
+    {
+      "id": 3,
+      "name": "Yellow"
+    },
+    {
+      "id": 4,
+      "name": "Blue"
+    },
+    {
+      "id": 5,
+      "name": "Orange"
+    },
+    {
+      "id": 6,
+      "name": "Black"
+    }
+  ]
+}
